@@ -1,0 +1,8 @@
+#Ignore virtual enviroment
+.venv
+
+#pychache
+__pycache__/
+
+#DS Store
+.DS_Store
