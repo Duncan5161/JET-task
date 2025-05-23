@@ -25,9 +25,9 @@ I chose to present my results in a table rendered via Flask using Python and Jin
 ## Ratings
 I have chosen to add a written statement where there are no ratings recorded, to avoid it appearing that said restaurants have a rating of 0. 
 
-# Improvements
+# Improvements I would make with more time 
 ## Data validation
-I have only put minimal data validation onto the interface from the front end with the required tag and character litmit included as part of the form where the postcode is entered - if the user enters a six digit but incorrect postcode it simply shows no results. I would instead return an error message briefly then redirect to the index page. 
+I have only put minimal data validation onto the interface from the front end with the required tag and character limit included as part of the form where the postcode is entered - if the user enters a six digit but incorrect postcode it simply shows no results. I would instead return an error message briefly then redirect to the index page. 
 
 ## Front End
 The front end is minimal and could be improved, again with more time, including using some Boostrap features. 
