@@ -1,11 +1,11 @@
 # Interview Task
 
 # Technologies used 
-Python: Underlying code including route the web page and extracting data from the API
-Flask: Programme written using the Flask web framework.
-HTML: Used to render the web pages.
-CSS: Used via a stylesheet to produce the basic visual rendering seen on the web app.
-Jinja: Loops used to render information via dictionaries. 
+1. Python: Underlying code including route for the web page and extracting data from the API
+2. Flask: Programme written using the Flask web framework.
+3. HTML: Used to render the web pages.
+4. CSS: Used via a stylesheet to produce the basic visual rendering seen on the web app.
+5. Jinja: Loops used to render information via dictionaries. 
 
 # Installation 
 1.  Clone the repository: `git clone <https://github.com/Duncan5161/JET-task>` 
