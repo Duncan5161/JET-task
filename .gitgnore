@@ -2,7 +2,7 @@
 .venv
 
 #pychache
-__pycache__/
+__pycache__
 
 #DS Store
 .DS_Store
