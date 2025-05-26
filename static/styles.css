@@ -1,0 +1,22 @@
+
+.margin{
+    margin-left: 50px;
+}
+
+.heading{
+    color: orange; 
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bold;  
+}
+
+.sub_heading{
+    margin-top: 20px;
+    color: orange; 
+}
+
+.form-group{
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
